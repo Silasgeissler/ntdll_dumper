@@ -32,7 +32,7 @@ Choice: 1
 
 ## Notes
 - Requires Windows. (duh)
-- The syscall stub is pretty much only found in ntdll.dll. I will update it for other DLLs that provide syscall stubs soon.
+- The syscall stub pattern is exclusive ntdll.dll.
 
 ## License
 do whatever
